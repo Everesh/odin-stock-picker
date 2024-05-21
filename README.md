@@ -1,3 +1,7 @@
 # odin-stock-picker
 
-Created as a part of the Odin project curriculum. https://www.theodinproject.com/about
+Mid course checkpoint for [The Odin Project](https://www.theodinproject.com/about)
+
+## NOT a functional project
+
+Only serves as reinforcement of the covered concepts
